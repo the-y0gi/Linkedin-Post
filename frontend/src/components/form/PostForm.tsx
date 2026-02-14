@@ -100,7 +100,7 @@ export default function PostForm({ onGenerate, loading }: Props) {
           type="text"
           value={audience}
           onChange={(e) => setAudience(e.target.value)}
-          placeholder="e.g. Class 12th Students"
+          placeholder="e.g. Startup Founders"
           className="w-full bg-slate-900/60 border border-slate-800 rounded-xl px-3 py-2.5 text-sm text-white placeholder:text-slate-600 focus:ring-1 focus:ring-blue-500/50 transition-all shadow-inner outline-none focus:border-blue-500/30"
         />
       </div>
