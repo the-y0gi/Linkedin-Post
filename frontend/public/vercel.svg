@@ -1,0 +1,30 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="200" height="200" rx="40" fill="#020617"/>
+
+  <!-- Gradient Circle -->
+  <circle cx="100" cy="100" r="70" fill="url(#gradient)" />
+
+  <!-- AI Spark Icon -->
+  <path 
+    d="M100 60 
+       L110 90 
+       L145 90 
+       L117 110 
+       L127 140 
+       L100 120 
+       L73 140 
+       L83 110 
+       L55 90 
+       L90 90 Z"
+    fill="white"
+  />
+</svg>
+
