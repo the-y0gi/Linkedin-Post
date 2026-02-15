@@ -95,6 +95,4 @@ linkedin-post/
 
 Visit `http://localhost:3000` to use the application!
 
-## 📄 License
 
-This project is licensed under the ISC License.
